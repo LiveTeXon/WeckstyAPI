@@ -42,6 +42,7 @@ public class NewNickAPI {
         Names.add("Entophobia");
         Names.add("Erak606");
         Names.add("Peaa");
+        sfgd
     }
     
     public static void setNick(final Player p) {
