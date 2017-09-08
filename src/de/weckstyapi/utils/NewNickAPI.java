@@ -11,7 +11,7 @@ public class NewNickAPI {
 	private static ArrayList<String> Names = new ArrayList<String>();
 
     static {
-
+        Names.add("AirFusion");
     }
     
     public static void setNick(final Player p) {
