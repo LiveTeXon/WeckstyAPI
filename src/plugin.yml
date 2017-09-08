@@ -1,0 +1,20 @@
+name: WeckstyAPI
+version: 1.0
+author: LiveTeXon
+main: de.weckstyapi.main.Main
+commands:
+  coins:
+  lobby:
+   aliases: [l, hub]
+  help:
+   aliases: [?]
+  me:
+  vanish:
+   aliases: [v]
+  ping:
+  gamemode:
+   aliases: [gm]
+  plugins:
+   aliases: [pl]
+  nick:  
+  
